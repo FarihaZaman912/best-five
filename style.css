@@ -1,0 +1,83 @@
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.sec-size {
+    /* width: 1440px; */
+    height: 481px;
+}
+
+.img1 {
+    width: 309px;
+    height: 374.76px;
+    margin-left: 0px;
+    margin-top: 106px;
+    margin-bottom: 0px;
+
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    width: 683px;
+    height: 94px;
+    font-weight: 400;
+    font-size: 76px;
+    color: #FF5E19;
+}
+
+.f-text {
+    width: 735px;
+    height: 90px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.img2 {
+    width: 149.07px;
+    height: 169.89px;
+    margin-right: 133.88px;
+    margin-top: 89.11px;
+}
+
+/* SECOND PART  */
+.second-sec {
+    margin-top: 74px;
+}
+
+.cardBackground {
+    width: 264px;
+    height: 371px;
+    margin-right: 24px;
+    background: #0D0D0D;
+}
+
+.cardBackground img {
+    width: 264px;
+    height: 204px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+h5 {
+    font-weight: 800;
+    font-size: 24px;
+}
+
+small {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.btn-size {
+    width: 221px;
+    height: 42px;
+}
+
+
+/* TABLE  */
+
+.table-size {
+    width: 264px;
+    height: 371px;
+}
